@@ -38,7 +38,7 @@ Designed a modular STM32-based Battery Management System for a single-cell lithi
 
 **Highlights:** STM32 firmware, ADC sensing, UART diagnostics, LTspice validation, Altium schematic design, and a custom two-layer PCB.
 
-[View the Smart Battery Management System](https://github.com/YOUR-USERNAME/Smart-Battery-Management-System)
+[View the Smart Battery Management System](https://github.com/ZaimFeroz/Smart-Battery-Management-System)
 
 ---
 
@@ -48,7 +48,7 @@ Developed an STM32-based password-protected access-control system using push-but
 
 **Highlights:** Embedded C, STM32 GPIO, user-input logic, PCB design, hardware testing, and Fusion 360 enclosure design.
 
-[View the STM32 Password Lock System](https://github.com/YOUR-USERNAME/STM32-Password-Lock-System)
+[View the STM32 Password Lock System](https://github.com/ZaimFeroz/STM32-Password-Lock)
 
 ---
 
@@ -58,7 +58,7 @@ Designed and simulated a DC-DC buck converter that steps a 12 V input down to a 
 
 **Highlights:** Power electronics, LTspice simulation, PCB layout, component selection, and mechanical design.
 
-[View the 12 V to 5 V Buck Converter](https://github.com/YOUR-USERNAME/12V-to-5V-Buck-Converter)
+[View the 12 V to 5 V Buck Converter](https://github.com/ZaimFeroz/12V-to-5V-Buck-Converter)
 
 ## Currently Developing
 
