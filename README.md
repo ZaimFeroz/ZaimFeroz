@@ -92,4 +92,4 @@ Designed and simulated a DC-DC buck converter that steps a 12 V input down to a 
 
 - LinkedIn: www.linkedin.com/in/zaimferoz
 - Email: z2feroz@uwaterloo.ca
-- [Engineering Portfolio](Portfolio/Zaim_Feroz_Engineering_Portfolio.pdf)
+- Portfolio: [Engineering Portfolio](Portfolio/Zaim_Feroz_Engineering_Portfolio.pdf)
