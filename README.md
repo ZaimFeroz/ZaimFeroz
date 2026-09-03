@@ -1,8 +1,8 @@
 # Hi, I'm Zaim Feroz
 
-I am an Electrical Engineering student at the University of Waterloo with experience in embedded systems, PCB design, circuit simulation, power electronics, and engineering documentation.
+I am an Electrical Engineering student at the University of Waterloo with experience in embedded systems, PCB design, circuit simulation, power electronics, electrical distribution design, motor controls, and engineering documentation.
 
-I enjoy developing projects from initial requirements and engineering calculations through circuit simulation, firmware development, PCB layout, and hardware validation.
+I enjoy developing projects from initial requirements and engineering calculations through simulation, schematic design, firmware development, PCB layout, electrical drawings, and hardware validation.
 
 ## Technical Skills
 
@@ -23,14 +23,37 @@ I enjoy developing projects from initial requirements and engineering calculatio
 - Power electronics
 - Breadboard prototyping and hardware debugging
 
+**Electrical Design and Controls**
+
+- AutoCAD Electrical
+- Single-line diagrams
+- 600Y/347 V and 208Y/120 V power distribution
+- Lighting and receptacle power layouts
+- Panel schedules and load calculations
+- Three-phase power calculations
+- Motor power and control circuits
+- HAND/AUTO control and BAS interfaces
+- HVAC electrical coordination
+- Feeder and voltage-drop calculations
+
 **Mechanical and Documentation Tools**
 
 - Autodesk Fusion 360
-- AutoCAD
 - Microsoft Word, Excel, PowerPoint, and Visio
-- Engineering design documentation
+- Engineering calculations and design documentation
+- Technical drawing and documentation packages
 
 ## Featured Projects
+
+### Commercial Office Electrical Distribution & Controls Design
+
+Designed a complete electrical distribution and controls package for a single-storey commercial office building using AutoCAD Electrical. The project covers 600Y/347 V main distribution, 208Y/120 V secondary distribution, lighting and receptacle layouts, panel schedules, mechanical loads, motor control, HVAC power and control interfaces, and supporting electrical calculations.
+
+**Highlights:** AutoCAD Electrical, single-line diagrams, power distribution, lighting and power plans, panel schedules, three-phase load calculations, motor controls, HVAC electrical coordination, and voltage-drop analysis.
+
+[View the Commercial Office Electrical Distribution & Controls Design](https://github.com/ZaimFeroz/Commercial-Office-Electrical-Design)
+
+---
 
 ### Smart Battery Management System
 
@@ -62,7 +85,6 @@ Designed and simulated a DC-DC buck converter that steps a 12 V input down to a 
 
 ## Currently Developing
 
-- Commercial office building electrical design
 - RF systems project
 - Additional STM32 and PCB design projects
 
